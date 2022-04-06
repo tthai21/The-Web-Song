@@ -6,3 +6,4 @@ Chrome and Safari
 JavaScript 
 red and yellow and pink and green
 NEW LINE
+IE EDGE Chrome Firefox
