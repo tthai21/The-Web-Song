@@ -6,3 +6,4 @@ Chrome and Safari
 JavaScript 
 red and yellow and pink and green
 NEW LINE
+//TODO #4 add in some browsers @Daniel
